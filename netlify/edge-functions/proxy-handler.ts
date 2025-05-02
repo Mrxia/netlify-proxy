@@ -23,7 +23,7 @@ const PROXY_CONFIG = {
   // 任意网址
   "/hexo": "https://hexo-gally.vercel.app", 
   "/hexo2": "https://hexo-987.pages.dev",
-  "/halo": "https://blog.gally.dpdns.org",
+  "/halo": "https://www.dzkji.cn",
   "/kuma": "https://status.dzkji.cn",
   "/hf": "https://huggingface.co",
   "/tv": "https://tv.gally.ddns-ip.net",
